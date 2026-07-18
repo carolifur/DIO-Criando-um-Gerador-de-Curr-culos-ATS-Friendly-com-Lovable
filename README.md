@@ -96,3 +96,13 @@ Ao clicar, abre um modal de conclusão apresentando as opções:
 Baixar PDF: Geração de arquivo PDF com texto 100% selecionável (essencial para leitura de sistemas ATS).
 
 Compartilhar: Permite copiar o texto limpo para a área de transferência ou gerar um link de compartilhamento rápido.
+
+https://github.com/carolifur/DIO-Criando-um-Gerador-de-Curr-culos-ATS-Friendly-com-Lovable/blob/main/OTIMIZA1.jpg
+
+https://github.com/carolifur/DIO-Criando-um-Gerador-de-Curr-culos-ATS-Friendly-com-Lovable/blob/main/OTIMIZA2.jpg
+
+https://github.com/carolifur/DIO-Criando-um-Gerador-de-Curr-culos-ATS-Friendly-com-Lovable/blob/main/OTIMIZA3.jpg
+
+https://github.com/carolifur/DIO-Criando-um-Gerador-de-Curr-culos-ATS-Friendly-com-Lovable/blob/main/OTIMIZA4.jpg
+
+https://github.com/carolifur/DIO-Criando-um-Gerador-de-Curr-culos-ATS-Friendly-com-Lovable/blob/main/OTIMIZA5.jpg

@@ -97,12 +97,12 @@ Baixar PDF: Geração de arquivo PDF com texto 100% selecionável (essencial par
 
 Compartilhar: Permite copiar o texto limpo para a área de transferência ou gerar um link de compartilhamento rápido.
 
-https://github.com/carolifur/DIO-Criando-um-Gerador-de-Curr-culos-ATS-Friendly-com-Lovable/blob/main/OTIMIZA1.jpg
+![Interface Passo 1](OTIMIZA1.jpg)
 
-https://github.com/carolifur/DIO-Criando-um-Gerador-de-Curr-culos-ATS-Friendly-com-Lovable/blob/main/OTIMIZA2.jpg
+![Interface Passo 2](OTIMIZA2.jpg)
 
-https://github.com/carolifur/DIO-Criando-um-Gerador-de-Curr-culos-ATS-Friendly-com-Lovable/blob/main/OTIMIZA3.jpg
+![Interface Passo 3](OTIMIZA3.jpg)
 
-https://github.com/carolifur/DIO-Criando-um-Gerador-de-Curr-culos-ATS-Friendly-com-Lovable/blob/main/OTIMIZA4.jpg
+![Interface Passo 4](OTIMIZA4.jpg)
 
-https://github.com/carolifur/DIO-Criando-um-Gerador-de-Curr-culos-ATS-Friendly-com-Lovable/blob/main/OTIMIZA5.jpg
+![Interface Passo 5](OTIMIZA5.jpg)

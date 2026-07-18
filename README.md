@@ -1,0 +1,2 @@
+# DIO-Criando-um-Gerador-de-Curr-culos-ATS-Friendly-com-Lovable
+Gerador de currículos otimizados para sistemas ATS (Applicant Tracking Systems), desenvolvido com a plataforma Low-Code Lovable. O projeto visa criar currículos altamente legíveis por inteligências artificiais de recrutamento, formatando seções de forma estratégica e automática para aumentar as chances de aprovação em processos seletivos.
